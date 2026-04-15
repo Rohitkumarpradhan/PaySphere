@@ -52,7 +52,7 @@
 |-------------|------------------|---------------|---------------|
 | ![Currencies](Currencies.jpeg) | ![Home](Home.jpeg) | ![Currency](Currency.jpeg) |![Light Theme](LightTheme.jpeg)|
 
----
+----
 
 # 🛠️ Tech Stack
 
